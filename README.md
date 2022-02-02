@@ -40,4 +40,20 @@ I'm most interested in working with Data related to Customer's Relationship Mana
 ![](https://img.shields.io/badge/<BI>-<PowerBI|Tableau|GDataStudio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Analytics>-<Databricks>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+### Github Stats
+
+<a href="https://github.com/FilipeSquire/FilipeSquire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSquire&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/FilipeSquire/FilipeSquire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeSquire&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Filipe's GitHub Stats" />
+</a>
+
+<a href="https://github.com/FilipeSquire/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeSquire&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/FilipeSquire/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeSquire&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
