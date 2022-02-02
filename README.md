@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 ### Watch out!
 
 I'm a Data Scientist wannabe! I'm currently working as a Data Analyst and I do Data Science work as my extra-activities in my life.
+
 I love working with maps 🗺️ and Government Data, that's why you'll find many works related to Education, Economy, Politics and others
+
 I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..) and Geographic Correlations
 
 <b> I'm a Senior Information Systems Bachelor in Brazil ! 👨🏻‍🎓 </b>
+
 <b> I'm currently a Candidate for Master's of Computer Science at University of Porto, University of Buenos Aires and University of São Paulo 👨🏻‍🔬 </b>
+
 <b> My previous experiences as Data Analyst were mainly focused on: CRM 💌 and Strategic Marketing 💹 </b>
 
 
