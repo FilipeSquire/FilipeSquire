@@ -39,6 +39,7 @@ I'm most interested in working with Data related to Customer's Relationship Mana
 ![](https://img.shields.io/badge/<Languages>-<Python|PySpark|SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<BI>-<PowerBI|Tableau|GDataStudio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Analytics>-<Databricks>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<GIS>-<QGIS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Github Stats
 
