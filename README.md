@@ -25,7 +25,7 @@ I love working with maps 🗺️ and Government Data, that's why you'll find man
 
 I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..), Finance and Geographic Correlations
 
-<b> 🧑🏻‍💼 I'm a Senior Data Analyst at iFood  🍕 </b>
+<b> 🧑🏻‍💼 I'm a Senior Business Data Analyst at iFood  🍕 </b>
 
 <b> 💻 I'm a Senior Information Systems Bachelor in Brazil ! 👨🏻‍🎓 </b>
 
@@ -38,8 +38,9 @@ I'm most interested in working with Data related to Customer's Relationship Mana
 ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Languages>-<Python|PySpark|SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<BI>-<PowerBI|Tableau|GDataStudio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Analytics>-<Databricks>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<GIS>-<QGIS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Analytics>-<Databricks>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ### Github Stats
 
