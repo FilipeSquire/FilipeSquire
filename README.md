@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ### Watch out!
 
 I'm a Data Scientist wannabe! I'm currently working as a Data Analyst and I do Data Science work as my extra-activities in my life.
@@ -25,13 +23,13 @@ I love working with maps 🗺️ and Government Data, that's why you'll find man
 
 I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..), Finance and Geographic Correlations
 
-<b> 🧑🏻‍💼 I'm a Senior Business Data Analyst at iFood  🍕 </b>
+<b> 🧑🏻‍💼 I'm a Senior Business Data Analyst at GetNinjas  🍕 </b>
 
-<b> 💻 I'm a Senior Information Systems Bachelor in Brazil ! 👨🏻‍🎓 </b>
+<b> 💻 I'm a Senior Information Systems Bachelor in Brazil ! I'll be graduating December/2022. 👨🏻‍🎓 </b>
 
 <b> Candidate for Master's of Computer Science at University of Porto, University of Buenos Aires and University of São Paulo 👨🏻‍🔬 </b>
 
-<b> My previous experiences as Data Analyst were mainly focused on: CRM 💌 and Strategic Marketing 💹 </b>
+<b> My previous experiences as Data Analyst were mainly focused on: CRM 💌, Business Development 💹 and Product Development 📲 </b>
 
 
 ### Technologies I've been using... 👨🏻‍💻
