@@ -21,9 +21,9 @@ I'm a Data Scientist wannabe! I'm currently working as a Data Analyst and I do D
 
 I love working with maps 🗺️ and Government Data, that's why you'll find many works related to Education, Economy, Politics and others
 
-I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..), Finance and Geographic Correlations
+I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..), Finance and Geoloc
 
-<b> 🧑🏻‍💼 I'm a Senior Business Data Analyst at GetNinjas  🍕 </b>
+<b> 🧑🏻‍💼 I'm a Senior Product Data Analyst at GetNinjas  🍕 </b>
 
 <b> 💻 I'm a Senior Information Systems Bachelor in Brazil ! I'll be graduating December/2022. 👨🏻‍🎓 </b>
 
