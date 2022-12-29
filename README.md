@@ -46,6 +46,7 @@ I'm most interested in working with Data related to Customer's Relationship Mana
 * <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Pasta%20sem%20nome/Challenge_1.ipynb"> Identifying Patterns on Supply-demand Project - </a> Developed for Bolt Business Case. Method: Shapiro-Wilk, Pearson Correlation, linear regression. Languages: Python
 * <a href="https://docs.google.com/presentation/d/1lc1klr9i5oBmSlCCTa-u156Za_Ovo9fa-IMR2Naj-_M/edit?usp=sharing"> Operational Research Presentation: SAPEVO-M and Machine Learning. </a>
 * <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/ifood-data-business-analyst-test-master/ifood2.ipynb"> Customer Segmentation by iFood - </a> Methods: Kmeans + RFM + Social Media Engagement
+* <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Real_Estate_Choosing_Scraping.ipynb"> VivaReal Scraping </a>
 
 ### My public articles...
 
