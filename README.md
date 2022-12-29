@@ -39,6 +39,16 @@ I'm most interested in working with Data related to Customer's Relationship Mana
 ![](https://img.shields.io/badge/<GIS>-<QGIS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Analytics>-<Databricks|Metabase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+### Some Projects I've worked in recently...
+
+* <a href="https://github.com/FilipeSquire/SSP"> São Paulo Criminalistic Analysis </a> - Under construction. It evolves around: geography modelling, clustering/classification and prediction.
+* <a href="https://github.com/FilipeSquire/Genome-Project---I2A2/blob/main/Genome_Project.ipynb"> Genome Project - </a> Development during classes at I2A2 (Institute de Inteligence Artifficielle). Methods: Dendogram, KMeans, LogNormalization, Seurat Lib. Languages: Python, R
+* <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Pasta%20sem%20nome/Challenge_1.ipynb"> Identifying Patterns on Supply-demand Project - </a> Developed for Bolt Business Case. Method: Shapiro-Wilk, Pearson Correlation, linear regression. Languages: Python
+* <a href="https://docs.google.com/presentation/d/1lc1klr9i5oBmSlCCTa-u156Za_Ovo9fa-IMR2Naj-_M/edit?usp=sharing"> Operational Research Presentation: SAPEVO-M and Machine Learning. </a>
+* <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/ifood-data-business-analyst-test-master/ifood2.ipynb"> Customer Segmentation by iFood - </a> Methods: Kmeans + RFM + Social Media Engagement
+
+### My public articles...
+
 
 ### Github Stats
 
