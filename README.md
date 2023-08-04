@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Watch out!
 
-I'm a Data Scientist wannabe! I'm currently working as a Data Analyst and I do Data Science work as my extra-activities in my life.
+I'm a Data Scientist! I'm currently working as a Data Scientist Generalist, working daily with Data Engineering, Machine Learning and Ops.
 
 I love working with maps 🗺️ and Government Data, that's why you'll find many works related to Education, Economy, Politics and others
 
