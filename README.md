@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Watch out!
+### Welcome!
 
-I'm a Data Scientist! I'm currently working as a Data Scientist Generalist, working daily with Data Engineering, Machine Learning and Ops.
+I'm a Data Scientist!
 
-I love working with maps 🗺️ and Government Data, that's why you'll find many works related to Education, Economy, Politics and others
+* Over 5 years of experience with Data Analysis, Data Science and Data Engineering
+* Currently Focusing in Software Development, Machine Learning Engineering and Innovation
 
-I'm most interested in working with Data related to Customer's Relationship Management (LTV,ROI,CAC..), Finance and Geoloc
+I am mostly interested in my personal projects to work with Urban Analytics and small entrepreneurial projects
 
-<b> 🧑🏻‍💼 I'm a Senior Product Data Analyst at GetNinjas  🍕 </b>
+<b> 🧑🏻‍💼 I am currently a Master's student looking for a Data Science  🍕 </b>
 
-<b> 💻 I'm a Senior Information Systems Bachelor in Brazil ! I'll be graduating December/2022. 👨🏻‍🎓 </b>
-
-<b> Candidate for Master's of Computer Science at University of Porto, University of Buenos Aires and University of São Paulo 👨🏻‍🔬 </b>
-
-<b> My previous experiences as Data Analyst were mainly focused on: CRM 💌, Business Development 💹 and Product Development 📲 </b>
+<b> 💻 I have a Bachelor in Information Systems and Im a Master degree student in Statistics at University Nova of Lisbon 👨🏻‍🎓 </b>
 
 
 ### Technologies I've been using... 👨🏻‍💻
