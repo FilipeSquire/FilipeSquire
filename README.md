@@ -1,40 +1,40 @@
+
+<h1 align="center">Felipe Silverio</h1>
+
+<p align="center"> 
+	<a href="https://www.linkedin.com/in/felipe-silverio/"> 
+		  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-silverio/" alt="Linkedin badge" />
+	</a>
+	<a href="https://www.hackerrank.com/profile/felipe_sql"> 
+		  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/felipe_sql/" alt="HackerRank badge" />
+	</a>
+  
+</p>
+
 ### Hi there 👋
-
-<!--
-**FilipeSquire/FilipeSquire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Welcome!
 
 I'm a Data Scientist!
 
+Quick facts about me:
 * Over 5 years of experience with Data Analysis, Data Science and Data Engineering
-* Currently Focusing in Software Development, Machine Learning Engineering and Innovation
+* Currently studying Software Development and Cloud Technologies
+* Student at University NOVA of Lisbon in Master of Science in Statistics
+* Bachelor in Information Systems
 
-I am mostly interested in my personal projects to work with Urban Analytics and small entrepreneurial projects
+Current personal projects under development:
+* Victoria 3 Modding
+* Building up my Hacker Rank Profile
+* Realista Webscrapping and analysis
+* Statistical Analysis of Real State Renting Policies in Lisbon
 
-<b> 🧑🏻‍💼 I am currently a Master's student looking for a Data Science  🍕 </b>
-
-<b> 💻 I have a Bachelor in Information Systems and Im a Master degree student in Statistics at University Nova of Lisbon 👨🏻‍🎓 </b>
-
-
+<!--
 ### Technologies I've been using... 👨🏻‍💻
 ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Languages>-<Python|PySpark|SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<BI>-<PowerBI|Tableau|GDataStudio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<GIS>-<QGIS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Analytics>-<Databricks|Metabase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
 
 ### Some Projects I've worked in recently...
 
@@ -51,13 +51,13 @@ I am mostly interested in my personal projects to work with Urban Analytics and 
 
 ### Github Stats
 
-<a href="https://github.com/FilipeSquire/FilipeSquire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSquire&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/FilipeSquire/FilipeSquire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeSquire&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Filipe's GitHub Stats" />
-</a>
-
-<a href="https://github.com/FilipeSquire/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FilipeSquire&repo=Advanced-Analytics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="center">
+    <a href="https://github.com/FilipeSquire/FilipeSquire">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeSquire&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Filipe's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/FilipeSquire/FilipeSquire">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSquire&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  </a>
+  
+</p>
