@@ -21,12 +21,16 @@ Quick facts about me:
 * Student at University NOVA of Lisbon in Master of Science in Statistics
 * Bachelor in Information Systems
 
-Current personal projects under development:
+**Current personal projects under development:**
 * Victoria 3 Modding
+* Gaming AI for Doom (Reinforcement Learning + Computer vision)
 * Building up my Hacker Rank Profile
-* Realista Webscrapping and analysis
+* Realista Webscrapping and analysis (50% done)
 * Statistical Analysis of Real State Renting Policies in Lisbon
 
+**Study projects:**
+* <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Neural Networks from Scratch in Python</a> (33% done)
+* <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Training Transformer Language Model</a> (100% done)
 <!--
 ### Technologies I've been using... 👨🏻‍💻
 ![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -38,7 +42,6 @@ Current personal projects under development:
 
 ### Some Projects I've worked in recently...
 
-* <a href="https://github.com/FilipeSquire/SSP"> São Paulo Criminalistic Analysis </a> - Under construction. It evolves around: geography modelling, clustering/classification and prediction.
 * <a href="https://github.com/FilipeSquire/Genome-Project---I2A2/blob/main/Genome_Project.ipynb"> Genome Project - </a> Development during classes at I2A2 (Institute de Inteligence Artifficielle). Methods: Dendogram, KMeans, LogNormalization, Seurat Lib. Languages: Python, R
 * <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Pasta%20sem%20nome/Challenge_1.ipynb"> Identifying Patterns on Supply-demand Project - </a> Developed for Bolt Business Case. Method: Shapiro-Wilk, Pearson Correlation, linear regression. Languages: Python. <a href="https://docs.google.com/presentation/d/11pfI_ckB68zCswEBkOydCaErokDEGuZI5UafdDPOCMQ/edit#slide=id.g124e241f79c_0_125"> Presentation </a>
 * <a href="https://docs.google.com/presentation/d/1lc1klr9i5oBmSlCCTa-u156Za_Ovo9fa-IMR2Naj-_M/edit?usp=sharing"> Operational Research Presentation: SAPEVO-M and Machine Learning. </a>
