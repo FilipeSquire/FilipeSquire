@@ -46,8 +46,10 @@ Quick facts about me:
 * <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Pasta%20sem%20nome/Challenge_1.ipynb"> Identifying Patterns on Supply-demand Project - </a> Developed for Bolt Business Case. Method: Shapiro-Wilk, Pearson Correlation, linear regression. Languages: Python. <a href="https://docs.google.com/presentation/d/11pfI_ckB68zCswEBkOydCaErokDEGuZI5UafdDPOCMQ/edit#slide=id.g124e241f79c_0_125"> Presentation </a>
 * <a href="https://docs.google.com/presentation/d/1lc1klr9i5oBmSlCCTa-u156Za_Ovo9fa-IMR2Naj-_M/edit?usp=sharing"> Operational Research Presentation: SAPEVO-M and Machine Learning. </a>
 * <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/ifood-data-business-analyst-test-master/ifood2.ipynb"> Customer Segmentation by iFood - </a> Methods: Kmeans + RFM + Social Media Engagement
-* <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Real_Estate_Choosing_Scraping.ipynb"> VivaReal Scraping </a>
-* <a href="https://github.com/FilipeSquire/Advanced-Analytics/blob/main/Webscrapping_FII_FundsExplorer.ipynb"> FundsExplorer Scraping </a>
+* <a href="https://github.com/FilipeSquire/WebScrappping/blob/main/VivaReal.ipynb"> VivaReal Scraping </a>
+* <a href="https://github.com/FilipeSquire/WebScrappping/blob/main/Webscrapping_FII_FundsExplorer.ipynb"> FundsExplorer Scraping </a>
+* <a href="https://github.com/FilipeSquire/WebScrappping/blob/main/Idealista.ipynb"> Idealista Scraping </a>
+* <a href="https://github.com/FilipeSquire/WebScrappping/blob/main/Uniplaces.ipynb"> Uniplaces Scraping </a>
 
 ### My public articles...
 
