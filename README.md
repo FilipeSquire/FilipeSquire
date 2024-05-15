@@ -25,7 +25,6 @@ Quick facts about me:
 * Victoria 3 Modding
 * Gaming AI for Doom (Reinforcement Learning + Computer vision)
 * Building up my Hacker Rank Profile
-* Realista Webscrapping and analysis (50% done)
 * Statistical Analysis of Real State Renting Policies in Lisbon
 
 **Study projects:**
