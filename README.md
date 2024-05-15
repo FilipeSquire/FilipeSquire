@@ -29,7 +29,8 @@ Quick facts about me:
 * Statistical Analysis of Real State Renting Policies in Lisbon
 
 **Study projects:**
-* <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Neural Networks from Scratch in Python</a> (33% done)
+* <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Neural Networks from Scratch in Python</a> (40% done)
+* <a href="https://github.com/FilipeSquire/supermario-qqnn">Super Mario AI Model DDQN </a> (100% done)
 * <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Training Transformer Language Model</a> (100% done)
 <!--
 ### Technologies I've been using... 👨🏻‍💻
