@@ -27,7 +27,8 @@ Quick facts about me:
 * Building up my Hacker Rank Profile
 * Statistical Analysis of Real State Renting Policies in Lisbon
 
-**Study projects:**
+**Projects:**
+* <a href="https://github.com/FilipeSquire/Azure-Data-Eng-Pipeline"> Azure Data Pipeline with DBT + Databricks + Azure Services </a> (100% done)
 * <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Neural Networks from Scratch in Python</a> (40% done)
 * <a href="https://github.com/FilipeSquire/supermario-qqnn">Super Mario AI Model DDQN </a> (100% done)
 * <a href="https://github.com/FilipeSquire/Neural-Network-from-Scratch">Training Transformer Language Model</a> (100% done)
